@@ -1,0 +1,7 @@
+---
+applications:
+- name: demo-actuator-test
+  memory: 1G
+  random-route: true
+  path: build/libs/demo-actuator-test2.jar
+
